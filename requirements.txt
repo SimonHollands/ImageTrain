@@ -1,14 +1,6 @@
 pillow
-lxml
-Cython
 matplotlib
 pandas
 opencv-python
 keras
-requests
-boto3
-pytest
 imageai
-beautifulsoup4
-opencv-contrib-python
-psycopg2-binary
