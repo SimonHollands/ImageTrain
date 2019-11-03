@@ -1,5 +1,6 @@
 from imageai.Detection.Custom import DetectionModelTrainer
 
+trainer=DetectionModelTrainer()
 trainer.setModelTypeAsYOLOv3()
 trainer = DetectionModelTrainer()
 trainer.setDataDirectory(data_directory="headsets2")
